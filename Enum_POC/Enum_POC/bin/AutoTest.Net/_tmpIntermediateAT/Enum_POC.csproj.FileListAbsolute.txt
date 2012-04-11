@@ -1,0 +1,5 @@
+E:\dev\POCs\Enum_POC\Enum_POC\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+E:\dev\POCs\Enum_POC\Enum_POC\bin\AutoTest.Net\_tmpIntermediateAT\Enum_POC.exe
+E:\dev\POCs\Enum_POC\Enum_POC\bin\AutoTest.Net\_tmpIntermediateAT\Enum_POC.pdb
+E:\dev\POCs\Enum_POC\Enum_POC\bin\AutoTest.Net\Enum_POC.exe
+E:\dev\POCs\Enum_POC\Enum_POC\bin\AutoTest.Net\Enum_POC.pdb

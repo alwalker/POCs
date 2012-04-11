@@ -1,0 +1,5 @@
+E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\Debug\ThreadingTimerPOC.exe
+E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\Debug\ThreadingTimerPOC.pdb
+E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\obj\x86\Debug\ThreadingTimerPOC.exe
+E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\obj\x86\Debug\ThreadingTimerPOC.pdb

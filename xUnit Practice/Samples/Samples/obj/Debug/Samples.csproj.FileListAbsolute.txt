@@ -1,0 +1,7 @@
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\bin\Debug\Samples.dll
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\bin\Debug\Samples.pdb
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\obj\Debug\Samples.dll
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\obj\Debug\Samples.pdb
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\bin\Debug\xunit.dll
+C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\Samples\bin\Debug\xunit.xml
