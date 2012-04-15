@@ -1,1 +1,6 @@
 A collection of proof of concepts I've made over time and find usefull to refer back to.
+
+Enum_POC: Enum bitwise operations
+ThreadingTimerPOC: Experiments with singletons and System.Threading.Timer
+WindowsForms/WPF MessageBoxIcons: Samples of all the message box icons
+xUnit Practice: Some xUnit samples
