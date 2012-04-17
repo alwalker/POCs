@@ -1,0 +1,6 @@
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\bin\Debug\FSharp_WinService_POC.XML
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\bin\Debug\FSharp_WinService_POC.exe
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\bin\Debug\FSharp_WinService_POC.pdb
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\obj\x86\Debug\FSharp_WinService_POC.exe
+C:\Users\alwalker\Dropbox\Code\POCs\FSharp_WinService_POC\FSharp_WinService_POC\obj\x86\Debug\FSharp_WinService_POC.pdb
