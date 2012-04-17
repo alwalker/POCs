@@ -1,0 +1,14 @@
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\App.g.cs
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\MainPage.g.cs
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\Silverlight_Rx_POC.g.resources
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\Silverlight_Rx_POC.dll
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\Silverlight_Rx_POC.pdb
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\Silverlight_Rx_POC.dll
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\Silverlight_Rx_POC.pdb
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\AppManifest.xaml
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\Silverlight_Rx_POC.xap
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\_tmpIntermediateAT\XapCacheFile.xml
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\Silverlight_Rx_POCTestPage.html
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\System.Reactive.dll
+E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC\bin\AutoTest.Net\System.Reactive.xml

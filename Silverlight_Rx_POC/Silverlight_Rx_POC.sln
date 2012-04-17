@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight_Rx_POC", "Silverlight_Rx_POC\Silverlight_Rx_POC.csproj", "{B0E4719B-29A4-4E60-BDC4-661D0CD242B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight_Rx_POC.Web", "Silverlight_Rx_POC.Web\Silverlight_Rx_POC.Web.csproj", "{E4CC0C85-EC6D-4FFD-8D66-98A6CDEE248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E4719B-29A4-4E60-BDC4-661D0CD242B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E4719B-29A4-4E60-BDC4-661D0CD242B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E4719B-29A4-4E60-BDC4-661D0CD242B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E4719B-29A4-4E60-BDC4-661D0CD242B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CC0C85-EC6D-4FFD-8D66-98A6CDEE248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CC0C85-EC6D-4FFD-8D66-98A6CDEE248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CC0C85-EC6D-4FFD-8D66-98A6CDEE248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CC0C85-EC6D-4FFD-8D66-98A6CDEE248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
