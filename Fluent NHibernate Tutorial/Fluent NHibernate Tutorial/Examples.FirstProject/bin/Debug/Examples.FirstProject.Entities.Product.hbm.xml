@@ -1,0 +1,22 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class xmlns="urn:nhibernate-mapping-2.2" name="Examples.FirstProject.Entities.Product, Examples.FirstProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="`Product`">
+    <id name="Id" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Id" />
+      <generator class="identity" />
+    </id>
+    <bag cascade="all" inverse="true" name="StoresStockedIn" table="StoreProduct">
+      <key>
+        <column name="Product_id" />
+      </key>
+      <many-to-many class="Examples.FirstProject.Entities.Store, Examples.FirstProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <column name="Store_id" />
+      </many-to-many>
+    </bag>
+    <property name="Name" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Name" />
+    </property>
+    <property name="Price" type="System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Price" />
+    </property>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+
+  <Identity Name="539e7652-57c8-402b-9daa-8618c379c904"
+            Publisher="CN=Andrew"
+            Version="1.0.0.0" />
+
+  <Properties>
+    <DisplayName>RavenDB_Metro_POC</DisplayName>
+    <PublisherDisplayName>Andrew</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>RavenDB_Metro_POC</Description>
+  </Properties>
+
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+        Executable="$targetnametoken$.exe"
+        EntryPoint="RavenDB_Metro_POC.App">
+        <VisualElements
+            DisplayName="RavenDB_Metro_POC"
+            Logo="Assets\Logo.png"
+            SmallLogo="Assets\SmallLogo.png"
+            Description="RavenDB_Metro_POC"
+            ForegroundText="light"
+            BackgroundColor="#222222">
+            <DefaultTile ShowName="allLogos" />
+            <SplashScreen Image="Assets\SplashScreen.png" />
+        </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

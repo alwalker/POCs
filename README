@@ -6,3 +6,7 @@ WindowsForms/WPF MessageBoxIcons: Samples of all the message box icons
 xUnit Practice: Some xUnit samples
 Silverlight RX: Using reactive extentions in silverlight to merge events
 FSharp_WinService: Simple F# Windows Service
+MetroUnitTestPOC: Testing out the new unit test class for Metro projects.
+RavenDBEmbeddedPOC: Using embedded Raven db in a .Net 4.5 project.
+RavenDB_Metro_POC: Attempted using Raven in a Metro app (didn't work!).
+Fluent NH Tutorial: Simple console app using Fluent NH

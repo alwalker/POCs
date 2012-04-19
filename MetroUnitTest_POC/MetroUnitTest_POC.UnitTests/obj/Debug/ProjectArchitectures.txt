@@ -1,0 +1,2 @@
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\MetroUnitTest_POC.Library.csproj;neutral
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.UnitTests\MetroUnitTest_POC.UnitTests.csproj;neutral

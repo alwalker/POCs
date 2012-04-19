@@ -1,0 +1,14 @@
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\bin\Debug\MetroUnitTest_POC.Library.dll
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\bin\Debug\MetroUnitTest_POC.Library.pdb
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\bin\Debug\MetroUnitTest_POC.Library.pri
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\MetroUnitTest_POC.Library.dll
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\MetroUnitTest_POC.Library.pdb
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\priconfig.xml
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\layout.resfiles
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\resources.resfiles
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\pri.resfiles
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\LanguageQualifiers.txt
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andrew\Dropbox\Code\Projects\MetroUnitTest_POC\MetroUnitTest_POC.Library\obj\Debug\pri.resfiles.intermediate

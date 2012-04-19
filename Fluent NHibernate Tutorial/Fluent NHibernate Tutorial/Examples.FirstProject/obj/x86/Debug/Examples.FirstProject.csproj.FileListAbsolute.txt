@@ -1,0 +1,12 @@
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\Examples.FirstProject.exe
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\Examples.FirstProject.pdb
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\FluentNHibernate.dll
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\Iesi.Collections.dll
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\NHibernate.dll
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\FluentNHibernate.pdb
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\Iesi.Collections.xml
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\NHibernate.xml
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\obj\x86\Debug\Examples.FirstProject.exe
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\obj\x86\Debug\Examples.FirstProject.pdb
+C:\Users\alwalker\Dropbox\Code\Projects\Fluent NHibernate Tutorial\Fluent NHibernate Tutorial\Examples.FirstProject\bin\Debug\Examples.FirstProject.exe.config
