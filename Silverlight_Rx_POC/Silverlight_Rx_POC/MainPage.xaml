@@ -7,6 +7,9 @@
     d:DesignHeight="300" d:DesignWidth="400">
 
     <Grid x:Name="LayoutRoot" Background="White">
-        <Button Name="btnDoIt" HorizontalAlignment="Center" VerticalAlignment="Center" Content="DO IT" Click="btnDoIt_Click"/>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Name="btnSubscribe" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Subscribe" Click="btnSubscribe_Click"/>
+            <Button Name="btnFireEvents" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Fire Events" Margin="5,0,0,0" Click="btnFireEvents_Click"/>
+        </StackPanel>
     </Grid>
 </UserControl>
