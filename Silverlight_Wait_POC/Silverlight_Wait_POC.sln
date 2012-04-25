@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight_Wait_POC", "Silverlight_Wait_POC\Silverlight_Wait_POC.csproj", "{A27586D2-7248-41CA-9F4A-299997F2C31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight_Wait_POC.Web", "Silverlight_Wait_POC.Web\Silverlight_Wait_POC.Web.csproj", "{D6BF5981-C015-4E60-BF12-7E5C5008967E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27586D2-7248-41CA-9F4A-299997F2C31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27586D2-7248-41CA-9F4A-299997F2C31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27586D2-7248-41CA-9F4A-299997F2C31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27586D2-7248-41CA-9F4A-299997F2C31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BF5981-C015-4E60-BF12-7E5C5008967E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BF5981-C015-4E60-BF12-7E5C5008967E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BF5981-C015-4E60-BF12-7E5C5008967E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BF5981-C015-4E60-BF12-7E5C5008967E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

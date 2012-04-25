@@ -10,3 +10,4 @@ MetroUnitTestPOC: Testing out the new unit test class for Metro projects.
 RavenDBEmbeddedPOC: Using embedded Raven db in a .Net 4.5 project.
 RavenDB_Metro_POC: Attempted using Raven in a Metro app (didn't work!).
 Fluent NH Tutorial: Simple console app using Fluent NH
+Silverlight_Wait: Using ManualReset.WaitOne to control threads
