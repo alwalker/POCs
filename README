@@ -11,3 +11,4 @@ RavenDBEmbeddedPOC: Using embedded Raven db in a .Net 4.5 project.
 RavenDB_Metro_POC: Attempted using Raven in a Metro app (didn't work!).
 Fluent NH Tutorial: Simple console app using Fluent NH
 Silverlight_Wait: Using ManualReset.WaitOne to control threads
+SilverlightOdataFSharpPOC: Attempt to use async workflows in F# in Silverlight for Odata access.
