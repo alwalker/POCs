@@ -1,5 +1,0 @@
-E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
-E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\AutoTest.Net\_tmpIntermediateAT\ThreadingTimerPOC.exe
-E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\AutoTest.Net\_tmpIntermediateAT\ThreadingTimerPOC.pdb
-E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\AutoTest.Net\ThreadingTimerPOC.exe
-E:\dev\POCs\ThreadingTimerPOC\ThreadingTimerPOC\bin\AutoTest.Net\ThreadingTimerPOC.pdb

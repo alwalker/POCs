@@ -1,5 +1,0 @@
-E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC.Web\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
-E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC.Web\bin\AutoTest.Net\_tmpIntermediateAT\Silverlight_Rx_POC.Web.dll
-E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC.Web\bin\AutoTest.Net\_tmpIntermediateAT\Silverlight_Rx_POC.Web.pdb
-E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC.Web\bin\AutoTest.Net\Silverlight_Rx_POC.Web.dll
-E:\dev\POCs\Silverlight_Rx_POC\Silverlight_Rx_POC.Web\bin\AutoTest.Net\Silverlight_Rx_POC.Web.pdb

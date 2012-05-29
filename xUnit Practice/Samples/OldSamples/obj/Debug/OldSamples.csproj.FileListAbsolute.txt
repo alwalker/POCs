@@ -1,6 +1,0 @@
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\bin\Debug\OldSamples.dll
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\bin\Debug\OldSamples.pdb
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\bin\Debug\xunit.dll
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\obj\Debug\OldSamples.dll
-C:\Users\alwalker\Dropbox\Code\Examples\xUnit Practice\Samples\OldSamples\obj\Debug\OldSamples.pdb
