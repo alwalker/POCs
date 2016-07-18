@@ -14,3 +14,4 @@ Silverlight_Wait: Using ManualReset.WaitOne to control threads
 SilverlightOdataFSharpPOC: Attempt to use async workflows in F# in Silverlight for Odata access.
 CustomConfigPOC: Sample multi and single element custom config sections
 Ruby_GoogleMaps_Stuff: Calculate a route based on given distance criteria and local points of interest
+CouchDB: Read a file for ID's, get some docs, and do some things
